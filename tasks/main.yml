@@ -1,0 +1,4 @@
+---
+# tasks file for bootstrap
+- name: "add service account"
+  user: ansible
